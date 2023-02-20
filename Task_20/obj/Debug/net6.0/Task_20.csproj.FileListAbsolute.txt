@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_3\Task_20\bin\Debug\net6.0\Task_20.exe
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_3\Task_20\bin\Debug\net6.0\Task_20.deps.json
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_3\Task_20\bin\Debug\net6.0\Task_20.runtimeconfig.json
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_3\Task_20\bin\Debug\net6.0\Task_20.dll
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_3\Task_20\bin\Debug\net6.0\Task_20.pdb
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_3\Task_20\obj\Debug\net6.0\Task_20.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_3\Task_20\obj\Debug\net6.0\Task_20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_3\Task_20\obj\Debug\net6.0\Task_20.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_3\Task_20\obj\Debug\net6.0\Task_20.AssemblyInfo.cs
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_3\Task_20\obj\Debug\net6.0\Task_20.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_3\Task_20\obj\Debug\net6.0\Task_20.dll
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_3\Task_20\obj\Debug\net6.0\refint\Task_20.dll
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_3\Task_20\obj\Debug\net6.0\Task_20.pdb
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_3\Task_20\obj\Debug\net6.0\Task_20.genruntimeconfig.cache
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинар_3\Task_20\obj\Debug\net6.0\ref\Task_20.dll

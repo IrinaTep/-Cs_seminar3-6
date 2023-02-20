@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинары_3-6\Task_35\obj\Debug\net6.0\Task_35.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинары_3-6\Task_35\obj\Debug\net6.0\Task_35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинары_3-6\Task_35\obj\Debug\net6.0\Task_35.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинары_3-6\Task_35\obj\Debug\net6.0\Task_35.AssemblyInfo.cs
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинары_3-6\Task_35\obj\Debug\net6.0\Task_35.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинары_3-6\Task_35\bin\Debug\net6.0\Task_35.exe
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинары_3-6\Task_35\bin\Debug\net6.0\Task_35.deps.json
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинары_3-6\Task_35\bin\Debug\net6.0\Task_35.runtimeconfig.json
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинары_3-6\Task_35\bin\Debug\net6.0\Task_35.dll
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинары_3-6\Task_35\bin\Debug\net6.0\Task_35.pdb
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинары_3-6\Task_35\obj\Debug\net6.0\Task_35.dll
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинары_3-6\Task_35\obj\Debug\net6.0\refint\Task_35.dll
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинары_3-6\Task_35\obj\Debug\net6.0\Task_35.pdb
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинары_3-6\Task_35\obj\Debug\net6.0\Task_35.genruntimeconfig.cache
+C:\Users\andre\Desktop\Ирина\GEEKBRAINS\Знакомство с C#\Семинары_3-6\Task_35\obj\Debug\net6.0\ref\Task_35.dll
